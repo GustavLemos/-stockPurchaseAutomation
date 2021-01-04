@@ -1,5 +1,5 @@
-# -stockPurchaseAutomation
-195 / 5000 Resultados de tradução Data analysis with data science concepts to take advantage of stock capital in order to obtain more profit, developed in python using object orientation and library matplotlib.py.
+# stockPurchaseAutomation
+Data analysis with data science concepts to take advantage of stock capital in order to obtain more profit, developed in python using object orientation and library matplotlib.py.
 
 This system aims to explore the data science of a corporate business that has stock turnover.
 The technology used to develop the software was the object-oriented python programming language
